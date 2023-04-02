@@ -647,6 +647,11 @@ input[type="submit"]{
     transition: transform .2s ease-in-out ;
     top: 40px;
 }
+#form2 input[type="submit"]:hover{
+    transform: scale(1.1);
+    background-color: rgb(252, 116, 37);
+
+}
 
 
 
